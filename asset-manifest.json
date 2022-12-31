@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d723a7c.css",
-    "main.js": "/static/js/main.703c44bd.js",
+    "main.css": "/static/css/main.bf0b9953.css",
+    "main.js": "/static/js/main.c7825c6b.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/datascience.gif": "/static/media/datascience.160ebf189652ae46371c.gif",
     "static/media/huggingfaces.png": "/static/media/huggingfaces.915d5ebc56a0380ac4ee.png",
@@ -45,11 +45,11 @@
     "static/media/dart.svg": "/static/media/dart.7b0850cbeb41e2134f9fe7d370bf8f1e.svg",
     "index.html": "/index.html",
     "static/media/django.svg": "/static/media/django.0779fca292c0a723b464bcb7534f802c.svg",
-    "main.5d723a7c.css.map": "/static/css/main.5d723a7c.css.map",
-    "main.703c44bd.js.map": "/static/js/main.703c44bd.js.map"
+    "main.bf0b9953.css.map": "/static/css/main.bf0b9953.css.map",
+    "main.c7825c6b.js.map": "/static/js/main.c7825c6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d723a7c.css",
-    "static/js/main.703c44bd.js"
+    "static/css/main.bf0b9953.css",
+    "static/js/main.c7825c6b.js"
   ]
 }
